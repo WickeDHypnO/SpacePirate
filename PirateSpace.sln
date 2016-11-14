@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirateSpace.CSharp", "PirateSpace.CSharp.csproj", "{60CEFF94-E568-F081-E3D4-A5C21FA1A119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirateSpace.CSharp.Editor", "PirateSpace.CSharp.Editor.csproj", "{7993D16A-7E8F-60B9-AAFD-66629DA4C13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60CEFF94-E568-F081-E3D4-A5C21FA1A119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CEFF94-E568-F081-E3D4-A5C21FA1A119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CEFF94-E568-F081-E3D4-A5C21FA1A119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CEFF94-E568-F081-E3D4-A5C21FA1A119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7993D16A-7E8F-60B9-AAFD-66629DA4C13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7993D16A-7E8F-60B9-AAFD-66629DA4C13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7993D16A-7E8F-60B9-AAFD-66629DA4C13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7993D16A-7E8F-60B9-AAFD-66629DA4C13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
